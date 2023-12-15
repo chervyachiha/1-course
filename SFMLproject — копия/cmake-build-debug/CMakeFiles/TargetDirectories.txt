@@ -1,0 +1,3 @@
+/Users/sonya/Desktop/Git/SFMLproject — копия/cmake-build-debug/CMakeFiles/SFMLproject.dir
+/Users/sonya/Desktop/Git/SFMLproject — копия/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sonya/Desktop/Git/SFMLproject — копия/cmake-build-debug/CMakeFiles/rebuild_cache.dir

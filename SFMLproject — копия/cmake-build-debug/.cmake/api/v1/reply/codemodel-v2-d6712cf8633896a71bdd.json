@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SFMLproject",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SFMLproject::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SFMLproject-Debug-ec00b4b6b5bdd1209cc2.json",
+					"name" : "SFMLproject",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/sonya/Desktop/Git/SFMLproject\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f/cmake-build-debug",
+		"source" : "/Users/sonya/Desktop/Git/SFMLproject\u00a0\u2014 \u043a\u043e\u043f\u0438\u044f"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

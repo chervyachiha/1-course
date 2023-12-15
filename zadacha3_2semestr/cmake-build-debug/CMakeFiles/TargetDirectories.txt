@@ -1,0 +1,3 @@
+/Users/sonya/Desktop/C++/zadacha3_2semestr/cmake-build-debug/CMakeFiles/zadacha3_2semestr.dir
+/Users/sonya/Desktop/C++/zadacha3_2semestr/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sonya/Desktop/C++/zadacha3_2semestr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
